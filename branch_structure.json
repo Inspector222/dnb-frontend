@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-170",
+    "fix/issue-173",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-170": "main",
+    "fix/issue-173": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-170",
+    "fix/issue-173",
+    "origin"
+  ]
+}
